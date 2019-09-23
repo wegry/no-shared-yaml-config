@@ -1,0 +1,10 @@
+{
+  "name": "no-shared-yaml-config",
+  "version": "1.0.0",
+  "description": "Doesn't seem to work with VS Code September release and prettier plugin 2.2.2",
+  "main": "index.js",
+  "author": "Zach Wegrzyniak <zwegrzyniak@gmail.com>",
+  "prettier": "@company-name/prettier-config",
+  "license": "MIT",
+  "private": false
+}
